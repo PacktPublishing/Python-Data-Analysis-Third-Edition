@@ -48,30 +48,32 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1        | Install Python 3.7 with latest Anaconda environment                   | Windows, Mac OS X, and Linux (Any) |
+| 2        | Install  Python numerical computing library NumPy            | Windows, Mac OS X, and Linux (Any) |
+| 3        |Install  Python data analysis library Pandas             | Windows, Mac OS X, and Linux (Any) |
+| 4        | Install  Python  scientific computing  library SciPy            | Windows, Mac OS X, and Linux (Any) |
+| 5        | Install  Python-MySQL connection library PyMySQ           | Windows, Mac OS X, and Linux (Any) |
+| 6        | Install  Python-MySQL connection library mysql-connector           | Windows, Mac OS X, and Linux (Any) |
+| 7        |Install  Python-MongoDB connection library PyMongo          | Windows, Mac OS X, and Linux (Any) |
+| 8        | Install  Python-Cassandra connection library cassandra-driver            | Windows, Mac OS X, and Linux (Any) |
+| 9        |Install  Python-Redis connection library redis           | Windows, Mac OS X, and Linux (Any) |
+| 10        | Install  python visualization library matplotlib           | Windows, Mac OS X, and Linux (Any) |
+| 11        | Install  python visualization library seaborn           | Windows, Mac OS X, and Linux (Any) |
+| 12        | Install  python visualization library Bokeh            | Windows, Mac OS X, and Linux (Any) |
+| 13        | Install python natural language processing library Scikit-learn             | Windows, Mac OS X, and Linux (Any) |
+| 14        |Install python natural language processing library NLTK            | Windows, Mac OS X, and Linux (Any) |
+| 16       | Install natural language processing library SpaCy             | Windows, Mac OS X, and Linux (Any) |
+| 17       | Install image processing library OpenCV           | Windows, Mac OS X, and Linux (Any) |
+| 18        | Install parallel computing library Dask        | Windows, Mac OS X, and Linux (Any) |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789955248_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Practical Data Analysis Using Jupyter Notebook [[Packt]](https://www.packtpub.com/product/practical-data-analysis-using-jupyter-notebook/9781838826031) [[Amazon]](https://www.amazon.com/dp/1838826033)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Essential Statistics for Non-STEM Data Analysts [[Packt]](https://www.packtpub.com/product/essential-statistics-for-non-stem-data-analysts/9781838984847) [[Amazon]](https://www.amazon.com/dp/	1838984844)
 
 ## Get to Know the Authors
 **Avinash Navlani**
@@ -85,8 +87,8 @@ has an MSc in experimental physics. His graduation thesis had a strong emphasis 
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Python Data Analysis - Second Edition](https://www.packtpub.com/product/python-data-analysis-second-edition/9781787127487)
+* [Python Data Analysis Cookbook](https://www.packtpub.com/product/python-data-analysis-cookbook/9781785282287)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
