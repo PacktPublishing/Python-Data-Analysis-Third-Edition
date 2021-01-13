@@ -14,7 +14,7 @@ This is the code repository for [Python Data Analysis - Third Edition](https://w
 ## What is this book about?
 Data analysis enables you to generate value from small and big data by discovering new patterns and trends, and Python is one of the most popular tools for analyzing a wide variety of data. With this book, you’ll get up and running using Python for data analysis by exploring the different phases and methodologies used in data analysis and learning how to use modern libraries from the Python ecosystem to create efficient data pipelines.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Explore data science and its various process models
 * Perform data manipulation using NumPy and pandas for aggregating, cleaning, and handling missing values
 * Create interactive visualizations using Matplotlib, Seaborn, and Bokeh
@@ -42,7 +42,7 @@ print(a)
 **Following is what you need for this book:**
 This book is for data analysts, business analysts, statisticians, and data scientists looking to learn how to use Python for data analysis. Students and academic faculties will also find this book useful for learning and teaching Python data analysis using a hands-on approach. A basic understanding of math and working knowledge of the Python programming language will help you get started with this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-18).
 
 ### Software and Hardware List
 
@@ -73,7 +73,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Practical Data Analysis Using Jupyter Notebook [[Packt]](https://www.packtpub.com/product/practical-data-analysis-using-jupyter-notebook/9781838826031) [[Amazon]](https://www.amazon.com/dp/1838826033)
 
-* Essential Statistics for Non-STEM Data Analysts [[Packt]](https://www.packtpub.com/product/essential-statistics-for-non-stem-data-analysts/9781838984847) [[Amazon]](https://www.amazon.com/dp/	1838984844)
+* Essential Statistics for Non-STEM Data Analysts [[Packt]](https://www.packtpub.com/product/essential-statistics-for-non-stem-data-analysts/9781838984847) [[Amazon]](https://www.amazon.com/dp/1838984844)
 
 ## Get to Know the Authors
 **Avinash Navlani**
