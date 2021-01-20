@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Python Data Analysis - Third Edition
 
 <a href="https://www.packtpub.com/product/python-data-analysis-third-edition/9781789955248"><img src="https://static.packt-cdn.com/products/9781789955248/cover/smaller" alt="Python Data Analysis - Third Edition" height="256px" align="right"></a>
